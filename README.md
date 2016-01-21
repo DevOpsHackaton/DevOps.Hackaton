@@ -16,3 +16,8 @@ devopshackaton.visualstudio.com
 - AppInsights enabled
 - Clone swap between stange and prod
 - (DB seeding)
+
+
+#Links
+https://msdn.microsoft.com/en-us/Library/vs/alm/Release/getting-started/deploy-to-azure
+http://blogs.msdn.com/b/visualstudioalm/archive/2015/10/04/automating-azure-resource-group-deployment-using-a-service-principal-in-visual-studio-online-build-release-management.aspx
